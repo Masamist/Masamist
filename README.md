@@ -1,16 +1,20 @@
-### Hi there 👋
+### 🌈 Kia Ora, I'm Masami, Junior Developer 🐣 
 
-<!--
-**Masamist/Masamist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I love coding!!  Especially web and mobile development using technologies such as React. 
 
-Here are some ideas to get you started:
+- 🌱 I am currently learning C# with unit test and React Native. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔍 I am looking for an internship or graduate role for web or soft dev.
+  
+- 📫 How to reach me:
+
+
+You can connect with me via: 
+
+https://www.linkedin.com/in/masami-stonebridge-0a0a35253/ 
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+
+
+## Technologies and Tools
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,godot, mongodb,nodejs,py,sass,figma,django,cs,bootstrap&theme=light)](https://skillicons.dev)
