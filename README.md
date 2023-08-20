@@ -8,8 +8,6 @@
   
 - 📫 How to reach me:
 
-
-You can connect with me via: 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/masami-stonebridge-0a0a35253/ )
 
 
