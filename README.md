@@ -10,11 +10,11 @@
 
 
 You can connect with me via: 
-
-https://www.linkedin.com/in/masami-stonebridge-0a0a35253/ 
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/masami-stonebridge-0a0a35253/ )
 
 
 ## Technologies and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,godot, mongodb,nodejs,py,sass,figma,django,cs,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)]
+[![My Skills](https://skillicons.dev/icons?i=react)]
+[![My Skills](https://skillicons.dev/icons?i=cs,py)]
+[![My Skills](https://skillicons.dev/icons?i=figma&theme=light)]
