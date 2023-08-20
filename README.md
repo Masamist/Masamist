@@ -1,4 +1,4 @@
-# 🌈 Kia Ora, I'm Masami, Junior Developer and UX UI designer 🐣 
+## 🌈 Kia Ora, I'm Masami, Junior Developer and UX UI designer 🐣 
 
 - 💻 I love coding!! Especially web and mobile development using technologies like React. 
 
