@@ -7,7 +7,7 @@
 - 🔍 I am looking for an internship or a graduate role for web or soft dev.
 
 
-## Technologies and Tools:
+### Technologies and Tools:
 ![My Skills](https://skillicons.dev/icons?i=js,html,css)
 ![My Skills](https://skillicons.dev/icons?i=react)
 ![My Skills](https://skillicons.dev/icons?i=nodejs)
@@ -18,5 +18,5 @@
 ![My Skills](https://skillicons.dev/icons?i=figma&theme=light)
 
 
-## Connect with me:
+### Connect with me:
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/masami-stonebridge-0a0a35253/ )
