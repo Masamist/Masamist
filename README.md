@@ -14,7 +14,11 @@ You can connect with me via:
 
 
 ## Technologies and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)][JS, HTML, SCC icons]
-[![My Skills](https://skillicons.dev/icons?i=react)]
-[![My Skills](https://skillicons.dev/icons?i=cs,py)]
-[![My Skills](https://skillicons.dev/icons?i=figma&theme=light)]
+![My Skills](https://skillicons.dev/icons?i=js,html,css)
+![My Skills](https://skillicons.dev/icons?i=react)
+![My Skills](https://skillicons.dev/icons?i=nodejs)
+![My Skills](https://skillicons.dev/icons?i=cs,py)
+![My Skills](https://skillicons.dev/icons?i=django)
+![My Skills](https://skillicons.dev/icons?i=bootstrap,sass)
+![My Skills](https://skillicons.dev/icons?i=godot,py)
+![My Skills](https://skillicons.dev/icons?i=figma&theme=light)
