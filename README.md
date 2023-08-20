@@ -1,10 +1,10 @@
-## 🌈 Kia Ora, I'm Masami, Junior Developer 🐣 
+# 🌈 Kia Ora, I'm Masami, Junior Developer and UX UI designer 🐣 
 
-- 💻 I love coding!!  Especially web and mobile development using technologies such as React. 
+- 💻 I love coding!! Especially web and mobile development using technologies like React. 
 
-- 🌱 I am currently learning C# with unit test and React Native. 
+- 🌱 I am currently learning C# with unit testing and React Native. 
 
-- 🔍 I am looking for an internship or graduate role for web or soft dev.
+- 🔍 I am looking for an internship or a graduate role for web or soft dev.
   
 - 📫 How to reach me:
 
