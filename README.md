@@ -7,6 +7,7 @@
 - 🔍 I am looking for an internship or a graduate role for web or soft dev.
 
 
+
 ### Technologies and Tools:
 ![My Skills](https://skillicons.dev/icons?i=js,html,css)
 ![My Skills](https://skillicons.dev/icons?i=react)
@@ -14,8 +15,9 @@
 ![My Skills](https://skillicons.dev/icons?i=cs,py)
 ![My Skills](https://skillicons.dev/icons?i=django)
 ![My Skills](https://skillicons.dev/icons?i=bootstrap,sass)
-![My Skills](https://skillicons.dev/icons?i=godot,py)
+![My Skills](https://skillicons.dev/icons?i=godot)
 ![My Skills](https://skillicons.dev/icons?i=figma&theme=light)
+
 
 
 ### Connect with me:
