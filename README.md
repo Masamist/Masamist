@@ -1,4 +1,4 @@
-### 🌈 Kia Ora, I'm Masami, Junior Developer 🐣 
+## 🌈 Kia Ora, I'm Masami, Junior Developer 🐣 
 
 - 💻 I love coding!!  Especially web and mobile development using technologies such as React. 
 
@@ -17,4 +17,4 @@ https://www.linkedin.com/in/masami-stonebridge-0a0a35253/
 
 
 ## Technologies and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,godot, mongodb,nodejs,py,sass,figma,django,cs,bootstrap&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,godot, mongodb,nodejs,py,sass,figma,django,cs,bootstrap)](https://skillicons.dev)
